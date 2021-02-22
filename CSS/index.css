@@ -1,3 +1,30 @@
-.jumbotron{
+.pie {
+    background-color: black;
+    height: 1%;
+}
+.jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/banner.jpg);
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-right: 50%;
+}
+.si {
+    text-align: center;
+}
+.aaa {
+    margin-right: 16px;
+}
 
+.jumbotron.jumbotron-fluid{
+    
+}
+
+.no {
+    padding-bottom: 5%;
+}
+
+.nav-item {
+    color: white;
 }
